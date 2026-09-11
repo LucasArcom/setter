@@ -41,5 +41,4 @@ Cuando generes lógica de cálculos o mock data, respeta estas reglas estrictas:
 - Nombres de componentes en PascalCase (ej: `MatchCard.svelte`).
 - Nombres de archivos de rutas siempre en minúsculas (ej: `+page.svelte`, `+layout.svelte`).
 - Funciones y variables en camelCase.
-- Comentarios en español.
-- Código, clases, variables, funciones, etc. en inglés.
+- Todo el código debe ser escrito en inglés.
